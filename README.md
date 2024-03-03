@@ -1,10 +1,10 @@
 # Amazon Prime Movies and TV Shows Dataset Analysis in Power BI
 
-##Introduction
+## Introduction
 
 This document provides an overview of the analysis of an Amazon Prime Movies and TV Shows dataset conducted using Power BI. The analysis aims to uncover insights, trends, and patterns within the data, offering valuable information for various stakeholders.
 
-##Data Source
+## Data Source
 
 Dataset: Please specify the source of the dataset you used. Was it collected from  Kaggle "https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows"
 
